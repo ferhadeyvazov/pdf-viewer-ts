@@ -14,15 +14,15 @@ React+Typescript+TailwindCSS və bir çox texnologiyalarla yigilan bu sehife PDF
 
 ## Documentation
 
-[React](https://react.dev/), [React-pdf-viewer](https://react-pdf-viewer.dev/), [Konva.js](https://konvajs.org/index.html), [TailwindCSS v3](https://v3.tailwindcss.com/)
+[React](https://react.dev/), [React-pdf-viewer](https://react-pdf-viewer.dev/), [Konva.js](https://konvajs.org/index.html), [TailwindCSS](https://tailwindcss.com/)
 
 ## Installation
 
 Install my-project with yarn
 
 ```bash
-yarn add https://github.com/ferhadeyvazov/PDF-TS.git
-cd pdf-ts
+git clone https://github.com/ferhadeyvazov/pdf-viewer-ts.git
+cd pdf-viewer-ts
 ```
 
 ## Usage/Examples
